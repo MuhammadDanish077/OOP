@@ -1,7 +1,0 @@
-D:\OOP\Project\PMS.Model\PMS.Model\bin\Debug\PMS.Model.exe.config
-D:\OOP\Project\PMS.Model\PMS.Model\bin\Debug\PMS.Model.exe
-D:\OOP\Project\PMS.Model\PMS.Model\bin\Debug\PMS.Model.pdb
-D:\OOP\Project\PMS.Model\PMS.Model\obj\Debug\PMS_Project.csproj.AssemblyReference.cache
-D:\OOP\Project\PMS.Model\PMS.Model\obj\Debug\PMS_Project.csproj.CoreCompileInputs.cache
-D:\OOP\Project\PMS.Model\PMS.Model\obj\Debug\PMS.Model.exe
-D:\OOP\Project\PMS.Model\PMS.Model\obj\Debug\PMS.Model.pdb
